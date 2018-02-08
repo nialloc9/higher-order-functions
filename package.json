@@ -1,5 +1,5 @@
 {
-  "name": "currying",
+  "name": "higher-order-functions",
   "version": "1.0.0",
   "description": "this is an example of using async await in javascript",
   "main": "index.js",
@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nialloc9/currying.git"
+    "url": "git+https://github.com/nialloc9/higher-order-functions.git"
   },
   "keywords": [
-    "currying",
+    "higher-order-functions",
     "javascript",
     "twentyfirstcenturycode"
   ],
   "author": "niall o connor",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nialloc9/currying/issues"
+    "url": "https://github.com/nialloc9/higher-order-functions/issues"
   },
-  "homepage": "https://github.com/nialloc9/currying#readme",
+  "homepage": "https://github.com/nialloc9/higher-order-functions#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

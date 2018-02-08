@@ -1,1 +1,1 @@
-# Examples of currying in javascript
+# Examples of higher order functions in javascript
