@@ -1,0 +1,36 @@
+{
+  "name": "currying",
+  "version": "1.0.0",
+  "description": "this is an example of using async await in javascript",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel js/main.js -o build/main.bundle.js",
+    "webpack": "webpack",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nialloc9/currying.git"
+  },
+  "keywords": [
+    "currying",
+    "javascript",
+    "twentyfirstcenturycode"
+  ],
+  "author": "niall o connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nialloc9/currying/issues"
+  },
+  "homepage": "https://github.com/nialloc9/currying#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "path": "^0.12.7",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
